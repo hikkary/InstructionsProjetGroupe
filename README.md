@@ -21,3 +21,8 @@ Responsive
 Bootstap et autres interdit
 
 Mise en place des notifications PUSH
+
+
+BONUS 
+
+Mise en place du Background Sync
