@@ -22,7 +22,11 @@ Bootstap et autres interdit
 
 Mise en place des notifications PUSH
 
+Mise en PROD
+
 
 BONUS 
+
+StoryBook
 
 Mise en place du Background Sync
