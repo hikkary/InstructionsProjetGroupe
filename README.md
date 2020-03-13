@@ -19,3 +19,5 @@ PWA
 Responsive
 
 Bootstap et autres interdit
+
+Mise en place des notifications PUSH
